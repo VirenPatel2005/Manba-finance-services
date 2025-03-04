@@ -11,3 +11,8 @@ Developed with **React.js** on the client side, the website delivers a seamless,
 ✅ **Responsive Design** – Works smoothly across all devices.  
 
 This project demonstrates expertise in **React.js development, API integration, and frontend performance optimization**, making it a robust solution for financial service providers. 🚀
+
+How to run client side:
+Open client folder in code editor
+Step-1: Open Terminal and type "npm install"
+Step-2: Run "npm start"
